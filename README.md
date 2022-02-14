@@ -1,6 +1,10 @@
 # CppGuide
 
-一、高频面试考点：
+一、基础
 
- [高频面试题.doc](docs\interview\高频面试题.doc) 
+[高频面试考点](./docs/interview/高频面试题.md)
+
+
+
+
 
